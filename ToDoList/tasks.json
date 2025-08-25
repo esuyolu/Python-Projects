@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "kitap oku",
+    "priority": "low",
+    "completed": true,
+    "category": "genel"
+  },
+  {
+    "id": 2,
+    "description": "odan\u0131 topla",
+    "priority": "medium",
+    "completed": false,
+    "category": "genel"
+  }
+]
